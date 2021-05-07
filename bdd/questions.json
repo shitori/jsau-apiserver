@@ -1,0 +1,126 @@
+[
+  {
+    "id": "9403a87f-1af1-4f8a-abea-d22f3b4204e0",
+    "id_enquetes": "2d5d593b-df24-476a-9c17-3460f16edb67",
+    "titre": "Est-ce je suis adrien ?",
+    "reponse": {
+      "type": "choix",
+      "choix": [
+        "oui",
+        "non"
+      ]
+    }
+  },
+  {
+    "id": "11a2e278-2a30-428b-b660-2026adc66207",
+    "id_enquetes": "2d5d593b-df24-476a-9c17-3460f16edb67",
+    "titre": "pk je suis un techos ?",
+    "reponse": {
+      "type": "libre"
+    }
+  },
+  {
+    "id": "4e5c65c8-bcb3-464a-859c-4a82fb53865a",
+    "id_enquetes": "2d5d593b-df24-476a-9c17-3460f16edb67",
+    "titre": "salut adrien",
+    "reponse": {
+      "type": "choix",
+      "choix": [
+        "++18",
+        "-18"
+      ]
+    }
+  },
+  {
+    "id": "407c06b9-6ad5-4a32-8b28-8d2bb3d3f005",
+    "id_enquetes": "e25ea87e-df1b-4e80-89d8-ab4678e096c5",
+    "titre": "Qst 1 test",
+    "reponse": {
+      "type": "choix",
+      "choix": [
+        "yes",
+        "no"
+      ]
+    }
+  },
+  {
+    "id": "ea6ed973-7fe8-4204-be6e-6e0796057732",
+    "id_enquetes": "e25ea87e-df1b-4e80-89d8-ab4678e096c5",
+    "titre": "Qst 2 test",
+    "reponse": {
+      "type": "libre"
+    }
+  },
+  {
+    "id": "d1fa9680-5122-4c72-8d52-cfdfe9dfd827",
+    "id_enquetes": "e25ea87e-df1b-4e80-89d8-ab4678e096c5",
+    "titre": "new title test",
+    "reponse": {
+      "type": {
+        "type": "libre"
+      }
+    }
+  },
+  {
+    "id": "4690dc7e-666c-4dd6-b310-42326b554a36",
+    "id_enquetes": "0ff821e7-9d7a-418a-abce-d8d338188946",
+    "titre": "Qst 1 test",
+    "reponse": {
+      "type": "choix",
+      "choix": [
+        "yes",
+        "no"
+      ]
+    }
+  },
+  {
+    "id": "1890a6cc-5f16-4608-b122-bd1ace448fe5",
+    "id_enquetes": "0ff821e7-9d7a-418a-abce-d8d338188946",
+    "titre": "Qst 2 test",
+    "reponse": {
+      "type": "libre"
+    }
+  },
+  {
+    "id": "6801771e-a3b7-4772-9d01-65fbd9293b22",
+    "id_enquetes": "0ff821e7-9d7a-418a-abce-d8d338188946",
+    "titre": "new title test",
+    "reponse": {
+      "type": {
+        "type": "libre"
+      }
+    }
+  },
+  {
+    "id": "6025bb53-cea0-43bc-9843-c994bc29ce94",
+    "id_enquetes": "c4887f9f-bdee-4b7c-81fe-143f9464b936",
+    "titre": "x",
+    "reponse": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "66652ec2-76aa-4d9a-9b01-3b8a173111b2",
+    "id_enquetes": "c4887f9f-bdee-4b7c-81fe-143f9464b936",
+    "titre": "x",
+    "reponse": {
+      "type": "text"
+    }
+  },
+  {
+    "id": "6757b82c-b2b9-4b1f-9c56-52edd786d4fb",
+    "id_enquetes": "7c804851-c844-49e6-bd11-5cf36971380a",
+    "titre": "r",
+    "reponse": {
+      "type": "number"
+    }
+  },
+  {
+    "id": "cf701b87-9652-4d27-a1ab-53d01c5bcac2",
+    "id_enquetes": "1bf1d503-1a3c-42b6-bf55-f178942aed48",
+    "titre": "u",
+    "reponse": {
+      "type": "text"
+    }
+  }
+]
